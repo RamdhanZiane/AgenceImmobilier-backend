@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-t+ilyp2b@)a@$cmr00!*z&x%n84z7oxzi7#k5e%0g382!w@sqc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sokna-api.onrender.com']
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
