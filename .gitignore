@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 client/node_modules
-=======
 pythonVenv/
 testproject/
->>>>>>> settingup
-j
+ImmobilApp/scraping/
+node_modules
