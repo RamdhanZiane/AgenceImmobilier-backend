@@ -27,6 +27,7 @@ import folium
 import geocoder
 from .markableMap import MarkerLayer
 
+
 def index(request):
     return HttpResponse('hello world')  
 
